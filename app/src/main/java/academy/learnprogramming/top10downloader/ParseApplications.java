@@ -1,7 +1,5 @@
 package academy.learnprogramming.top10downloader;
 
-import android.util.Log;
-
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserFactory;
 
